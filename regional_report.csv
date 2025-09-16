@@ -1,0 +1,119 @@
+name,item_type,quantity,max_sellOrder,min_buyOrder,total_spend,total_income,total_profit
+Basic Raw Meat,item,2000,3,10,3931,20000,16069
+Chitin,item,351,10,25,2264,8775,6511
+Jakyl Fur,item,564,10,10,4881,9787,4906
+Basic Amber Resin,item,1872,5,5,4628,9360,4732
+Simple Stone Chunk,cargo,100,3,40,221,4000,3779
+Simple Amber Resin,item,956,1,1,956,4660,3704
+Sturdy Plank,item,884,40,40,34590,37860,3270
+Savory Mashed Bulbs,item,500,8,10,1770,5000,3230
+Fine Raw Meat,item,235,4,4,940,3825,2885
+Sturdy Glass Vial,item,89,44,61,2662,5429,2767
+Ferralith Ingot,item,1194,25,25,29549,32125,2576
+Simple Raw Meat,item,328,3,10,840,3280,2440
+Nubi Goat,cargo,30,200,245,5070,7350,2280
+Fine Plank,item,265,60,60,14784,16885,2101
+Rough Wood Trunk,cargo,749,3,4,1180,3012,1832
+Pyrelite Ore Chunk,cargo,109,15,18,728,2382,1654
+Rough Parchment,item,1000,3,4,2490,4000,1510
+Simple Wood Trunk,cargo,80,13,25,587,2000,1413
+Sturdy Wood Trunk,cargo,288,15,15,2915,4320,1405
+Simple Plant Roots,cargo,80,5,20,348,1600,1252
+Infused Clay Lump,item,250,1,6,250,1500,1250
+Simple Plank,item,475,20,20,9485,10555,1070
+Pyrelite Frames,cargo,11,285,320,2512,3520,1008
+Rough Plant Roots,cargo,1,1,1000,1,1000,999
+Rough Stone Chunk,cargo,1,3,1000,3,1000,997
+Plain Deluxe Fish and Bulbs,item,100,11,20,1100,2000,900
+Sturdy Braxite,item,84,20,30,1680,2520,840
+Female Cervus,cargo,4,250,380,700,1520,820
+Ferralith Ore Chunk,cargo,66,25,25,879,1650,771
+Simple Tree Bark,item,3081,2,2,5431,6162,731
+Sturdy Stripped Wood,item,162,15,16,1879,2592,713
+Pyrelite Ore Piece,item,513,5,5,1887,2565,678
+Fine Wood Log,item,769,4,4,2441,3076,635
+Exquisite Plant Roots,cargo,61,25,35,1525,2135,610
+Glittering Junk,item,64,50,50,2590,3200,610
+Exquisite Amber Resin,item,300,3,5,900,1500,600
+Simple Fish Oil,item,510,9,10,4515,5100,585
+Fine Tree Bark,item,981,4,4,3345,3924,579
+Simple Citric Berry,item,16,5,40,80,649,569
+Fine Braxite,item,100,25,30,2500,3000,500
+Male Cervus,cargo,3,250,380,650,1140,490
+Simple Leather Sheeting,cargo,2,50,292,100,584,484
+Female Scrofa,cargo,3,100,250,300,750,450
+Fine Berry,item,2000,2,2,3609,4000,391
+Basic Wispweave Seeds,item,1278,2,2,2184,2556,372
+Fine Deluxe Fish and Bulbs,item,10,44,80,440,800,360
+Rough Straw,item,56,50,50,2447,2800,353
+Simple Cloth Strip,item,165,10,12,1650,1980,330
+Basic Citric Berry,item,13,25,50,325,650,325
+Oceancrest Marlin,cargo,10,70,100,700,1000,300
+Sturdy Tree Bark,item,2076,2,2,3853,4152,299
+Emarium Ore Piece,item,95,4,7,380,665,285
+Infused Amber Resin,item,285,1,2,285,570,285
+Sagi Bird,cargo,7,181,200,1116,1400,284
+Moonlit Crawdad,item,295,4,4,898,1180,282
+Exquisite Cloth Tarp,cargo,1,4000,4280,4000,4280,280
+Simple Wood Log,item,573,2,2,944,1200,256
+Infused Raw Meat,item,278,2,2,556,780,224
+Driftwood Crayfish,item,100,2,4,200,400,200
+Basic Crop Oil,item,10,40,40,200,400,200
+Salt,item,70,5,5,155,350,195
+Oceancrest Marlin Filet,item,48,1,5,48,240,192
+Simple Animal Hair,item,6,10,40,60,240,180
+Emarium Ore Concentrate,item,32,10,15,314,480,166
+Pyrelite Ingot,item,80,30,32,2400,2560,160
+Ferralith Pickaxe,item,2,2,80,3,160,157
+Ferralith Saw,item,2,5,80,6,160,154
+Rough Leather Belt,item,9,40,40,216,365,149
+Infused Sand,item,151,3,3,309,453,144
+Sturdy Wood Log,item,590,3,3,1630,1770,140
+Ferralith Hoe,item,2,10,80,20,160,140
+Rough Woven Belt,item,6,30,30,57,184,127
+Simple Crop Oil,item,6,20,40,120,240,120
+Basic Starbulb Seeds,item,110,1,2,110,220,110
+Rough Woven Shoes,item,8,22,30,148,244,96
+Simple Flower,item,674,3,3,1930,2022,92
+Simple Braxite,item,16,36,40,552,640,88
+Exquisite Berry,item,67,4,4,187,268,81
+Peerless Animal Hair,item,16,25,30,400,480,80
+Ferralith Rod,item,1,1,80,1,80,79
+Ferralith Hammer,item,1,1,80,1,80,79
+Ferralith Axe,item,1,3,80,3,80,77
+Rough Woven Gloves,item,6,30,30,111,184,73
+Aurumite Ore Chunk,cargo,5,1,15,5,75,70
+Simple Rope,item,830,25,25,20690,20750,60
+Pyrelite Nails,item,29,5,7,145,203,58
+Rough Forester's Pot,item,18,2,5,36,90,54
+Infused Crop Oil,item,9,25,30,217,270,53
+Male Scrofa,cargo,5,250,250,1200,1250,50
+Ferralith Bow,item,1,30,80,30,80,50
+Mossfin Chub Filet,item,90,4,4,315,360,45
+Rough Leather Boots,item,2,20,40,40,80,40
+Ferralith Machete,item,1,40,80,40,80,40
+Fine Sand,item,428,3,3,1248,1284,36
+Simple Forester's Pot,item,9,2,5,14,45,31
+Emarium Ore Chunk,cargo,6,1,6,6,36,30
+Rough Woven Cap,item,1,1,31,1,31,30
+Simple Potter's Mix,item,15,1,3,15,45,30
+Rough Woven Shorts,item,1,1,31,1,31,30
+Rough Woven Shirt,item,1,1,31,1,31,30
+Simple Gypsite,item,2,50,64,100,128,28
+Beginner's Wood Research,item,1,150,175,150,175,25
+Rough Wispweave Filament,item,24,1,2,24,48,24
+Fine Amber Resin,item,88,3,3,240,264,24
+Rough Timber,cargo,1,30,50,30,50,20
+Simple Brick,item,10,22,24,220,240,20
+Ferralith Claymore,item,1,20,40,20,40,20
+Sturdy Brick,item,2,50,59,99,118,19
+Exquisite Flower,item,622,2,2,1227,1244,17
+Basic Chum,item,1,5,20,5,20,15
+Rough Brick,item,8,15,15,106,120,14
+Sturdy Plant Fiber,item,1,1,10,1,10,9
+Basic Flower,item,2914,2,2,5821,5828,7
+Peerless Flower,item,3000,3,3,8994,9000,6
+Beginner's Stone Carvings,item,22,4,4,84,88,4
+Exquisite Sand,item,1,1,4,1,4,3
+Simple Wispweave Filament,item,1,1,3,1,3,2
+Infused Berry,item,41,2,2,81,82,1
